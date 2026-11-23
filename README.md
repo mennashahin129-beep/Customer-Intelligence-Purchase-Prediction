@@ -95,6 +95,10 @@ The project helps businesses:
 Customer-Intelligence-Purchase-Prediction/
 │
 ├── Customer_Intelligence_Project.ipynb
+├── Customer_Intelligence_Dashboard.html
+├── Customer_Segmentation_Results.csv
+├── Cluster_Profile.csv
+├── Revenue_Analysis.csv
 ├── README.md
 └── requirements.txt
 ```
